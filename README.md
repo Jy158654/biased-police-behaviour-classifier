@@ -1,4 +1,4 @@
-# Biased Police Behaviour Classifier
+# Biased Police Behaviour Classifier 👮
 
 ## Introduction
 This project is developed for the module IE0005: Intro to Data Science & AI.
